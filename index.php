@@ -14,8 +14,7 @@
 <body>
     <div class="container">
         <div class="row align-items-center">
-            <div class="col col-md-hide"></div>
-            <div class="col">
+            <div class="col col-md-6">
                 <form action="logic.php" method="POST">
                     <div class="row">
                         <div class="col">
@@ -29,11 +28,9 @@
                     </div>
                 </form>
             </div>
-            <div class="col"></div>
         </div>
         <div class="row">
-            <div class="col"></div>
-            <div class="col">
+            <div class="col-md-6">
                 <h4 class="text-center">Task List</h4>
                 <div class="list">
 
