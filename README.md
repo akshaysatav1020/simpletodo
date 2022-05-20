@@ -5,4 +5,4 @@ Simple todo list
 
 #DBNAME = todo
 #DBUSER = root
-#DBUSER = 
+#DBUSER = ''
