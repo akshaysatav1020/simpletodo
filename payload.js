@@ -1,2 +1,1 @@
-alert("Hey you've captured the flag"+localStorage.getItem("flag"));
-document.body.append(localStorage.getItem("flag"));
+alert("Hey you've captured the flag. Here is your flag==>"+localStorage.getItem("flag"));
